@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: System Design Interview Handbook
+  structure:
+    - type: space
+      key: space-handbook
+      title: Handbook
+      path: handbook
+      default: true
+      content:
+        directory: ./
